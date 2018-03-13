@@ -1,12 +1,12 @@
 # Udacity Full Stack Nanodegree Project: Linux Server Configuration
 
 ### IP + SSH
-**IP:** 172.104.19.53
-**SSH PORT:** 2200
+**IP:** 172.104.19.53 
+**SSH PORT:** 2200 
 
 ### URL
-**Portfolio Site:** http://terencefox.me
-**Item Catalog:** http://catalog.terencefox.me
+**Portfolio Site:** http://terencefox.me 
+**Item Catalog:** http://catalog.terencefox.me 
 **Neighborhood Map:** http://map.terencefox.me
 
 ### Installation Process
