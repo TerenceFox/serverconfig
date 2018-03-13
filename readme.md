@@ -1,7 +1,7 @@
 # Udacity Full Stack Nanodegree Project: Linux Server Configuration
 
 ### IP + SSH
-**IP:** 172.104.19.53 
+**IP:** 172.104.19.53  
 **SSH PORT:** 2200 
 
 ### URL
