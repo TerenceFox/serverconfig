@@ -5,8 +5,8 @@
 **SSH PORT:** 2200 
 
 ### URL
-**Portfolio Site:** http://terencefox.me 
-**Item Catalog:** http://catalog.terencefox.me 
+**Portfolio Site:** http://terencefox.me  
+**Item Catalog:** http://catalog.terencefox.me  
 **Neighborhood Map:** http://map.terencefox.me
 
 ### Installation Process
