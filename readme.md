@@ -2,7 +2,7 @@
 
 ### IP + SSH
 **IP:** 172.104.19.53  
-**SSH PORT:** 2200 
+**SSH PORT:** 2200
 
 ### URL
 **Portfolio Site:** http://terencefox.me  
@@ -27,5 +27,8 @@ I did this project on Linode. A brief outline of the steps:
 14. Installed PostgreSQL
 15. Created a limited-access user and associated database
 16. Cloned my itemcatalog git project into /var/www
-17. Created a virtual environment for the app and got it running with PostgreSQL.
+17. Created a virtual environment for the app, installed dependencies into it and got it running with PostgreSQL.
 18. Created a wsgi file that activates and uses the virtual environment and sets the database URL as an environment variable the app will look for.
+19. Create a virtual host .conf file for the catalog app
+20. Transferred my domain to Linode, made a record for the catalog subdomain and set the virtual host to it
+21. Made two more Virtual Hosts for the Portfolio Site and Neighborhood Map projects, which are both static. The server defaults to the portfolio site and I made a new subdomain for the Neighborhood Map app.
